@@ -19,8 +19,11 @@ display(Math('\\text{Exponential function } k(x) = 6 * 3^{-x} + 1 \\text{ is a v
 
 
 $\displaystyle \text{Exponential function } f(x) = 3^x$
+
 $\displaystyle \text{Exponential function } g(x) = 3^{-x} \text{ is an x-axis reflection of } f(x)=3^x$
+
 $\displaystyle \text{Exponential function } h(x) = 6 * 3^{-x} \text{ is a vertical stretch of } g(x) = 3^{-x}$
+
 $\displaystyle \text{Exponential function } k(x) = 6 * 3^{-x} + 1 \text{ is a vertical shift up of } 6 * 3^{-x}$
 
 
