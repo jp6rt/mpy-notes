@@ -1,4 +1,4 @@
-# Algebraic and graphical notes in Jupyter using Sympy, Numpy, Matplotlib etc.
+# Algebraic and graphical notebooks using Sympy, Numpy, Matplotlib etc.
 
 ## Sample from Exponential functions.
 
