@@ -32,11 +32,6 @@ def get_coordinates(a_=1,b_=3,c_=1,d_=0):
     a,b,c,d,x = sym.symbols('a,b,c,d,x')
     expr = (a * ( b**(c*x) )) + d
     
-    a = a_
-    b = b_
-    c = c_
-    d = d_
-    
     x_points = np.linspace(-1.5, 1.5)
     y_points = []
     
